@@ -1,0 +1,7 @@
+{
+    "require": {
+        "jaeger/phpquery-single": "^1.1",
+        "ijiabao/phpquery-onefile": "^0.9.5",
+        "electrolinux/phpquery": "^0.9.7"
+    }
+}
